@@ -1,0 +1,3 @@
+[submodule "src/drivers/mcu/st_hal_lib"]
+	path = src/drivers/mcu/st_hal_lib
+	url = https://github.com/benhaz1024/stm32l4_hal_lib.git
